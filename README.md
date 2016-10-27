@@ -15,10 +15,10 @@ Computer Architecture Team Project #1
 ### 추가기능
 > IEEE754
 
-- [ ] bias -127과 IEEE754를 적용한 32비트로의 변환
+- [X] bias -127과 IEEE754를 적용한 32비트로의 변환
 - [ ] 다시 십진수로의 변환
 - [ ] 덧셈(뺄셈) 연산
-- [ ] 곱셈 연산
+- [X] 곱셈 연산
 - [ ] 나눗셈 연산
 - [ ] 상태비트 출력 (C, V, S, Z)
 
@@ -28,4 +28,4 @@ Computer Architecture Team Project #1
 변재호(@bjho606) <br>
 방승희(@tmdgml) <br>
 전진수(@jeonjinsoo) <br>
-손혜진 <br>
+손혜진(@Sonhyejin) <br>
